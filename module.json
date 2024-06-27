@@ -2,7 +2,7 @@
   "id": "aumera",
   "title": "Aumera: Grey Skies and Grim Dawns",
   "description": "Aumera",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "authors": [
     {
       "name": "Bob Kelly of Heresy Research Labs",
@@ -89,6 +89,6 @@
     }
   ],
   "url": "https://gitlab.com/HRLabs/aumera",
-  "manifest": "https://github.com/HRLabs/aumera/releases/download/0.0.2/aumera.json",
-  "download": "https://github.com/HRLabs/aumera/releases/download/0.0.2/aumera.zip"
+  "manifest": "https://github.com/HRLabs/aumera/releases/download/0.0.3/module.json",
+  "download": "https://github.com/HRLabs/aumera/releases/download/0.0.3/aumera.zip"
 }
