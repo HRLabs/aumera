@@ -1,94 +1,48 @@
- {
+{
   "id": "aumera",
-  "title": "Aumera: Grey Skies and Grim Dawns",
-  "description": "Aumera",
-  "version": "0.0.3",
+  "title": "Aumera",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
   "authors": [
     {
-      "name": "Bob Kelly of Heresy Research Labs",
-      "discord": "HeresyBob#8638",
-      "url": "https://discord.gg/XR3yyRcA",
+      "name": "Bob Kelly",
+      "email": "bob@heresy.com",
+      "url": "http://www.heresy.com/",
+      "discord": "heresybob",
+      "flags": {}
+    },
+    {
+      "name": "Author 2",
       "flags": {}
     }
   ],
-  "compatibility": {
-    "minimum": "0.8.6",
-    "verified": "10"
-  },
-  "scripts": [
-	"init.js"
-  ],
   "packs": [
     {
-      "name": "module-creatures",
-      "label": "Aumera Bestiary",
-      "path": "packs/creatures",
-      "type": "Actor",
-      "system": "pf2e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "module-items",
-      "label": "Aumera Items",
-      "path": "packs/items",
-      "type": "Item",
-      "system": "pf2e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "module-scenes",
-      "label": "Aumera Scenes",
-      "path": "packs/scenes",
-      "type": "Scene",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "module-journal-entries",
-      "label": "Module Journal Entries",
-      "path": "packs/journal-entries",
-      "type": "JournalEntry",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "module-roll-tables",
-      "label": "Module Roll Tables",
-      "path": "packs/roll-tables",
-      "type": "RollTable",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "module-adventures",
-      "label": "Module Adventures",
-      "path": "packs/adventures",
+      "name": "s1e00-awaiting-the-away-team",
+      "label": "S1E00: Awaiting the Away Team",
+      "path": "packs/s1e00-awaiting-the-away-team",
       "type": "Adventure",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "s1e01-obsidian-pointe",
+      "label": "S1E01: Obsidian Pointe",
+      "path": "packs/s1e01-obsidian-pointe",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
       "flags": {}
     }
-  ],
-  "url": "https://gitlab.com/HRLabs/aumera",
-  "manifest": "https://github.com/HRLabs/aumera/releases/download/0.0.3/module.json",
-  "download": "https://github.com/HRLabs/aumera/releases/download/0.0.3/aumera.zip"
+  ]
 }
