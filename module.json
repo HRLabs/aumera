@@ -1,7 +1,7 @@
 {
   "id": "aumera",
   "title": "Aumera",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "compatibility": {
     "minimum": "8",
     "verified": "12"
@@ -42,6 +42,6 @@
     }
   ],
   "url": "https://gitlab.com/HRLabs/aumera",
-  "manifest": "https://github.com/HRLabs/aumera/releases/download/0.0.4/manifest.json",
-  "download": "https://github.com/HRLabs/aumera/releases/download/0.0.4/aumera.zip"
+  "manifest": "https://github.com/HRLabs/aumera/releases/download/0.0.5/manifest.json",
+  "download": "https://github.com/HRLabs/aumera/releases/download/0.0.5/aumera.zip"
 }
