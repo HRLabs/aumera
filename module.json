@@ -44,5 +44,8 @@
       "system": "pf2e",
       "flags": {}
     }
-  ]
+  ],
+  "url": "https://gitlab.com/HRLabs/aumera",
+  "manifest": "https://github.com/HRLabs/aumera/releases/download/0.0.3/manifest.json",
+  "download": "https://github.com/HRLabs/aumera/releases/download/0.0.3/aumera.zip"
 }
