@@ -3,7 +3,7 @@
   "title": "Aumera",
   "version": "0.0.4",
   "compatibility": {
-    "minimum": "12",
+    "minimum": "8",
     "verified": "12"
   },
   "authors": [
