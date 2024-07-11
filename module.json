@@ -1,9 +1,9 @@
 {
   "id": "aumera",
   "title": "Aumera",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "compatibility": {
-    "minimum": "12",
+    "minimum": "8",
     "verified": "12"
   },
   "authors": [
@@ -12,10 +12,6 @@
       "email": "bob@heresy.com",
       "url": "http://www.heresy.com/",
       "discord": "heresybob",
-      "flags": {}
-    },
-    {
-      "name": "Author 2",
       "flags": {}
     }
   ],
@@ -44,5 +40,8 @@
       "system": "pf2e",
       "flags": {}
     }
-  ]
+  ],
+  "url": "https://gitlab.com/HRLabs/aumera",
+  "manifest": "https://github.com/HRLabs/aumera/releases/download/0.0.5/manifest.json",
+  "download": "https://github.com/HRLabs/aumera/releases/download/0.0.5/aumera.zip"
 }
