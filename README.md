@@ -8,8 +8,6 @@ Aumera: Black Skies and Grim Dawns - a swashbuckling grimdark adventure
 GM Notes and Spoilers: Warning - if you read this, you will be spoiled for playing this. 
 
 - 
-
-Aumera: BSaGS
 Designed as a western marches campaign, each game is a contained episode with a single mission but with an overarching arc that sews them all together. The arc is optional and has plenty of plot hooks for players to sink their teeth into. 
 
 Aumera is a humans-only world built on top of a dark secret where abominations and aberrations appear more frequent and stronger than they should be.  Players are members of the Away Team (think Star Trek Redshirts) on our Imperial Majesty's Ship LightBringer, an extension of the Majesty's Will, sent to do the express biddings of Throne. Crueler GMs with the trust of their players may want to play this game aggressively and allowing for more PC deaths. 
