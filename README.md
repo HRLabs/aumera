@@ -21,7 +21,7 @@ S1E01: Obsidian Pointe: Why is this lighthouse so Bright?
  - where the fun begins: get in, get the info, get out... what could go wrong?
    
 S1E02: Port Vyulle: the Sleepless Battlelands 
- - come out to the coast, we'll get together, have a few laughs, fight a skeletonized mekatronic monster
+ - come out to the coast, we'll fight a skeletonized mekatronic monster, have a few laughs
 
 S1E03: The House of White Whispers
  - Here's lookin' at you, kid - get the defecting Arcanotech Scientist out of town
