@@ -1,9 +1,6 @@
 {
   "id": "aumera",
-  "title": "Aumera",
-  "version": "0.0.4",
   "compatibility": {
-    "minimum": "12",
     "verified": "12"
   },
   "authors": [
@@ -17,31 +14,17 @@
   ],
   "packs": [
     {
-      "name": "s1e00-awaiting-the-away-team",
-      "label": "S1E00: Awaiting the Away Team",
-      "path": "packs/s1e00-awaiting-the-away-team",
       "type": "Adventure",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e",
-      "flags": {}
     },
     {
-      "name": "s1e01-obsidian-pointe",
-      "label": "S1E01: Obsidian Pointe",
-      "path": "packs/s1e01-obsidian-pointe",
-      "type": "Adventure",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e",
-      "flags": {}
     }
   ],
   "url": "https://gitlab.com/HRLabs/aumera",
-  "manifest": "https://github.com/HRLabs/aumera/releases/download/0.0.4/manifest.json",
-  "download": "https://github.com/HRLabs/aumera/releases/download/0.0.4/aumera.zip"
 }
