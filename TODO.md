@@ -1,5 +1,14 @@
 TODO List:
 
+
+++
+ - Add 2 characters to lighthouse
+ - Add light effect to barracks
+ - Add Roof
+
+
++
+
 Add Fog of War modules/aumera/assets/maps/S1E01_obsidian_point_intersections.webp for S1E01d Obsidian Pointe - Cutaway
 Add dead bodies assets to S1E01d Obsidian Pointe - Grounds
   get dead bodies assets
