@@ -39,7 +39,7 @@
     }
   ],
   "url": "https://gitlab.com/HRLabs/aumera",
-  "manifest": "https://github.com/HRLabs/aumera/releases/download/0.0.6/manifest.json",
+  "manifest": "https://github.com/HRLabs/aumera/releases/download/0.0.6/module.json",
   "download": "https://github.com/HRLabs/aumera/releases/download/0.0.6/aumera.zip",
   "description": "Aumera: Black Skies and Grim Dawns - a swashbuckling grimdark world\n\nDesigned as a western marches campaign, each game is a contained episode with a single mission but with an overarching arc that sews them all together. The arc is optional and has plenty of plot hooks for players to sink their teeth into. \n\nAumera is a humans-only world built on top of a dark secret where abominations and aberrations appear more frequent and stronger than they should be.  Players are members of the Away Team (think Star Trek Redshirts) on our Imperial Majesty's Ship LightBringersent to do the express biddings of Throne. Crueler GMs with the trust of their players can play this module aggressively and allowing for more PC deaths."
 }
