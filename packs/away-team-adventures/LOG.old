@@ -1,14 +1,7 @@
-2024/07/19-21:42:00.000297 7fdd42fbf6c0 Recovering log #71
-2024/07/19-21:42:00.001962 7fdd42fbf6c0 Level-0 table #73: started
-2024/07/19-21:42:00.013511 7fdd42fbf6c0 Level-0 table #73: 397725 bytes OK
-2024/07/19-21:42:00.031342 7fdd42fbf6c0 Delete type=0 #45
-2024/07/19-21:42:00.031509 7fdd42fbf6c0 Delete type=0 #59
-2024/07/19-21:42:00.031527 7fdd42fbf6c0 Delete type=3 #44
-2024/07/19-21:42:00.031550 7fdd42fbf6c0 Delete type=0 #71
-2024/07/19-21:42:00.031743 7fdd42fbf6c0 Delete type=2 #19
-2024/07/19-21:42:00.031818 7fdd42fbf6c0 Delete type=0 #21
-2024/07/19-21:42:00.031965 7fdd42fbf6c0 Delete type=3 #20
-2024/07/19-21:42:00.031982 7fdd42fbf6c0 Delete type=3 #57
-2024/07/19-21:42:00.031996 7fdd42fbf6c0 Delete type=2 #61
-2024/07/19-21:42:00.032059 7fdd42fbf6c0 Delete type=3 #70
-2024/07/19-21:42:00.032076 7fdd42fbf6c0 Delete type=2 #43
+2024/07/29-19:12:41.673497 7f718c7bc6c0 Recovering log #96
+2024/07/29-19:12:41.685585 7f718c7bc6c0 Delete type=3 #94
+2024/07/29-19:12:41.685628 7f718c7bc6c0 Delete type=0 #96
+2024/07/29-19:17:48.251699 7f6c6bb816c0 Level-0 table #102: started
+2024/07/29-19:17:48.251729 7f6c6bb816c0 Level-0 table #102: 0 bytes OK
+2024/07/29-19:17:48.259263 7f6c6bb816c0 Delete type=0 #100
+2024/07/29-19:17:48.269233 7f6c6bb816c0 Manual compaction at level-0 from '!adventures!XgsxY9kasYtT8zxy' @ 72057594037927935 : 1 .. '!adventures!wExEDqcF69TCQjgi' @ 0 : 0; will stop at (end)
