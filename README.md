@@ -17,8 +17,7 @@ S01E00: The Away Team Awaits - basic intro to Aumera in the Crow's Nest, a de-fa
  
 S01E01: Obsidian Pointe: Why is this lighthouse so Bright? 
  
-S01E02: The Sleepless Fields: Can you capture this flag?
-
+S01E02: TBD
 
  --
 
