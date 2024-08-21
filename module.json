@@ -38,16 +38,20 @@
       }
     }
   ],
-  "flags":{
-	  "aumera": {
-		  "pf2e-homebrew": {
-			  "languages": {
-				  "imperial": "Imperial",
-				  "foulspeak": "Foul-speak"
-			  }
-		  }
-	  }
-  }
+  "flags":
+  {
+    "aumera": 
+    {
+      "pf2e-homebrew": 
+      {
+      "languages": 
+         {
+	 "imperial": "Imperial",
+	 "foulspeak": "Foul-speak"
+	 }
+      }
+    }
+  },
   "url": "https://gitlab.com/HRLabs/aumera",
   "manifest": "https://github.com/HRLabs/aumera/releases/download/0.0.7/module.json",
   "download": "https://github.com/HRLabs/aumera/releases/download/0.0.7/aumera.zip",
