@@ -1,35 +1,31 @@
 README
 
 
-Aumera: Grey Skies and Grim Dawns - a swashbuckling grimdark adventure
+Aumera: Black Skies and Grim Dawns - a swashbuckling grimdark adventure
 
 -
 
-Designed as a western marches campaign, each game is a contained episode with a single mission. 
+This adventure module is a western marches campaign: a season of ~12-16 episodes with an over-arching theme. Each episode contains a single mission. 
 
 Aumera is a humans-only world built on top of a dark secret where abominations and aberrations appear stronger than they should be. 
 
 Players are members of the Away Team (think Star Trek Redshirts) on our Imperial Majesty's Ship LightBringer,
 an extension of the Majesty's Will, sent to do the express biddings of Throne. 
 
-S01E00: The Away Team Awaits - basic intro to Aumera in the Crow's Nest, a de-facto NCO tavern
- - starts and ends with a bar fight and intro to 2-3 IMS LightBringer's crew. 
+Season 1
+E00: The Away Team Awaits - basic intro to Aumera in the Crow's Nest, a de-facto NCO tavern
+ - starts with a bar fight and intro to 2-3 IMS LightBringer's crew, and ends with a mysterious death.
  
-S01E01: Obsidian Pointe: Why is this lighthouse so Bright? 
+E01: Obsidian Pointe 1 Why is this lighthouse so bright? 
  
-S01E02: TBD
+E02: Port Vyulee: Come to the beach, we'll have some laughs, capture the flag...
 
- --
+E03: TBD
 
-RELEASE NOTES:
-0.0.1 - some graphics, some details, some other things - still has AI + appropriated artwork
-- intended only for initial playtesting. 
+--
 
-TODO:
 
-- Load up artwork
-- Map configuration for Obsidian Pointe, objective
-^ New battlemaps for IMS Lightbringer map
+
 
 
 
