@@ -18,7 +18,7 @@ E00: The Away Team Awaits - basic intro to Aumera in the Crow's Nest, a de-facto
  
 E01: Obsidian Pointe 1 Why is this lighthouse so bright? 
  
-E02: Port Vyulee: Come to the beach, we'll have some laughs, capture the flag...
+E02: Port Vyulle: Come to the beach, we'll have some laughs, capture the flag...
 
 E03: TBD
 
